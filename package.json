@@ -1,0 +1,22 @@
+{
+  "name": "study",
+  "version": "1.0.0",
+  "description": "``` 이것은 Node.js 공부를 위해 만들어진 Repo입니다. ``` ## 3/23일부터 1day 1commit을 진행하고 있으며, 얼마나 갈지는 모르겠으나 노력해보려 합니다. ``` 현 repo에 작성되는 코드들은 'Do it! Node.js 프로그래밍'책을 기반으로 쓰이고 있습니다. ```",
+  "main": "3_23_node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluayer/node-study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bluayer/node-study/issues"
+  },
+  "homepage": "https://github.com/bluayer/node-study#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
