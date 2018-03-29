@@ -18,6 +18,7 @@
   "homepage": "https://github.com/bluayer/node-study#readme",
   "dependencies": {
     "express": "^4.16.3",
+    "express-error-handler": "^1.1.0",
     "serve-static": "^1.13.2"
   }
 }

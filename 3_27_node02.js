@@ -20,7 +20,6 @@ app.use(function(req, res, next) {
 	res.end()
 });
 
-
 // Express 서버 시작헀습니다
 http.createServer(app).listen(app.get('port'), function() {
 	console.log('익스프레스 서버를 시작헀습니다 : ' + app.get('port'))
